@@ -15,7 +15,7 @@ Plataforma para listagem de pokémons
 <br>
 
 <p align="center">
-  <img alt="control panel" src="https://raw.githubusercontent.com/arthur77br/Animals-control-panel/main/studing-angular/src/assets/img/control-panel.png" width="100%">
+  <img alt="control panel" src="https://raw.githubusercontent.com/ArthurDuarteBolivar/Pokedex_JS/main/assets/sgv/TeladoProjeto.png" width="100%">
 </p>
 
 
